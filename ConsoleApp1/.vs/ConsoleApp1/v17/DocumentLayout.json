@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\shibl\\OneDrive\\Documents\\GitHub\\ASPXAUTH-Crafter\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{435A0407-0BCB-4BE9-9789-A5466980B35F}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\shibl\\OneDrive\\Documents\\GitHub\\ASPXAUTH-Crafter\\ConsoleApp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{435A0407-0BCB-4BE9-9789-A5466980B35F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{435A0407-0BCB-4BE9-9789-A5466980B35F}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\shibl\\OneDrive\\Documents\\GitHub\\ASPXAUTH-Crafter\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435A0407-0BCB-4BE9-9789-A5466980B35F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{435A0407-0BCB-4BE9-9789-A5466980B35F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\shibl\\onedrive\\documents\\github\\aspxauth-crafter\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435A0407-0BCB-4BE9-9789-A5466980B35F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{435A0407-0BCB-4BE9-9789-A5466980B35F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\shibl\\onedrive\\documents\\github\\aspxauth-crafter\\consoleapp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{435A0407-0BCB-4BE9-9789-A5466980B35F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\shibl\\OneDrive\\Documents\\GitHub\\ASPXAUTH-Crafter\\ConsoleApp1\\ConsoleApp1\\App.config",
               "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shibl\\OneDrive\\Documents\\GitHub\\ASPXAUTH-Crafter\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\shibl\\OneDrive\\Documents\\GitHub\\ASPXAUTH-Crafter\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:05:50.523Z",
               "EditorCaption": ""
