@@ -1,0 +1,8 @@
+F:\HTB-Labs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\HTB-Labs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\HTB-Labs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\HTB-Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\HTB-Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\HTB-Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\HTB-Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\HTB-Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
